@@ -8,7 +8,7 @@ WeatherForecast-app that shows current time of the day, weather condition and te
 
 
 
-
+![](WeatherGuru.gif)
 
 
 
