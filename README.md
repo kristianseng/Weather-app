@@ -2,7 +2,8 @@
 
 WeatherForecast-app that shows current time of the day, weather condition and temperature based on target location
 
-* fetch api
+* AccuWeather Api (requires free account)
+* localstorage
 * bootstrap classes
 
 
@@ -16,5 +17,8 @@ WeatherForecast-app that shows current time of the day, weather condition and te
 
 
 
-from JS novice to ninja udemy course
+
+
+
+from Modern JavaScript (from Novice to Ninja) course
 :shipit:
