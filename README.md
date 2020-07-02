@@ -24,6 +24,6 @@ WeatherForecast-app that shows current time of the day(day or night), weather co
 
 
 
-created
+created  
 learning from Modern JavaScript (from Novice to Ninja) course
 :shipit:
